@@ -1,5 +1,5 @@
-// <Your Name>
-// <Your Roll Number>
+/*Write a program that takes as input the value of a floating-point variable, say , calculates the
+
 
 #include <stdio.h>
 
