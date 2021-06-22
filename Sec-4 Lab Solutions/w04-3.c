@@ -1,4 +1,4 @@
-// Find recursively defined numbers.
+
 
 #include <stdio.h>
 

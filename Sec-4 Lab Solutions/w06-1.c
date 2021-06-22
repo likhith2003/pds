@@ -1,4 +1,4 @@
-// Sequence without loop
+
 
 #include <stdio.h>
 

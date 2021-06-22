@@ -1,5 +1,5 @@
-// <Your Name>
-// <Your Roll Number>
+
+
 
 #include <stdio.h>
 
