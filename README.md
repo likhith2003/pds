@@ -6,4 +6,4 @@
 - [Official course website link](https://cse.iitkgp.ac.in/pds/)
 
 - [CSE Moodle link](https://moodlecse.iitkgp.ac.in/moodle/login/index.php)
-- [slides](https://github.com/likhith2003/pds/tree/master/Slides)
+- [slides](https://github.com/likhith2003/pds/tree/main/Slides)
