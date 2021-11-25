@@ -1,5 +1,4 @@
 # PDS
-### This repo is going to be big!
 
 - A study material resource for the programming and data structure course offered ny IIT-KGP in first year.
 
