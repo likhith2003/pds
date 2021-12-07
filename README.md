@@ -1,6 +1,6 @@
 # PDS
 
-- A study material resource for the programming and data structure course offered ny IIT-KGP in first year.
+- A study material resource for the programming and data structure course offered by IIT-KGP in first year.
 
 - [Official course website link](https://cse.iitkgp.ac.in/pds/)
 
